@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Gibson';
+    src: local('Gibson Regular'), local('Gibson-Regular'),
+        url('Gibson.woff2') format('woff2'),
+        url('Gibson.woff') format('woff'),
+        url('Gibson.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
